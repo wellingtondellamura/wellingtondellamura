@@ -12,9 +12,9 @@ I'm Wellington Della Mura, MSc Computer Science, Software Engineer and Full-time
 [<img align="left" alt="UENP" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/book.svg" />](http://cct.uenp.edu.br/wellington)
 
 
----
 
-<img align="left" alt="WelllingtonDellaMura's Github Stats" src="https://github-readme-stats.vercel.app/api?username=WelllingtonDellaMura&show_icons=true&hide_border=true" />
+
+<img align="left" alt="WelllingtonDellaMura's Github Stats" src="https://github-readme-stats.vercel.app/api?username=welllingtondellamura&show_icons=true&hide_border=true" />
 
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/codeSTACKr
