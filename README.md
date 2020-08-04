@@ -1,4 +1,4 @@
-## Hi there, I'm Wellington - aka Della Mura 👋
+# Hi there, I'm Wellington - aka Della Mura 👋
 
 
 I'm Wellington Della Mura, MSc Computer Science, Software Engineer and Full-time father
@@ -10,11 +10,16 @@ I'm Wellington Della Mura, MSc Computer Science, Software Engineer and Full-time
 
 ## Connect with me
 
-## As developer:
+<b> As developer:<b>
+  
 [<img align="left" alt="della-mura.com.br" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://www.della-mura.com.br)
 [<img align="left" alt="wellingtondellamura | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](http://linkedin.com/wellingtondellamura)
 
 
-## As professor at UENP:
+<b> As professor at UENP:</b>
 [<img align="left" alt="UENP" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://cct.uenp.edu.br/wellington)
 [<img align="left" alt="UENP" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/mail.svg" />](wellington at uenp dot edu dot br)
+
+---
+
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wellingtondellamura&show_icons=true&hide_border=true" />
