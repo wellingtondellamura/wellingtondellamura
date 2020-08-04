@@ -12,8 +12,7 @@ I'm Wellington Della Mura, MSc Computer Science, Software Engineer and Full-time
 [<img align="left" alt="UENP" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/book.svg" />](http://cct.uenp.edu.br/wellington)
 
 <br/>
-
-## 
+<br/>
 
 <img align="left" alt="WellingtonDellaMura's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wellingtondellamura&show_icons=true&theme=dracula" />
 
