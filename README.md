@@ -1,6 +1,6 @@
-# Hi there, I'm Wellington - aka Della Mura 👋
+# Hi there, I'm Wellington
 
-I'm Wellington Della Mura, MSc Computer Science, Software Engineer and Full-time father
+I'm Wellington Della Mura, MSc in Computer Science, Software Engineer and Full-time father
 
 - 🤓 I’m currently working on improve my remote classes of compilers and theory of computation
 - 🌱 I’m currently learning React JS, .Net Core and Lavavel
