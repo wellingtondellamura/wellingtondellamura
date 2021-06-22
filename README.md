@@ -10,9 +10,3 @@ I'm Wellington Della Mura, MSc in Computer Science, Software Engineer and Full-t
 [<img align="left" alt="della-mura.com.br" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://www.della-mura.com.br)
 [<img align="left" alt="wellingtondellamura | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](http://linkedin.com/wellingtondellamura)
 [<img align="left" alt="UENP" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/book.svg" />](http://cct.uenp.edu.br/wellington)
-
-<br/>
-<br/>
-
-<img align="left" alt="WellingtonDellaMura's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wellingtondellamura&show_icons=true" />
-
