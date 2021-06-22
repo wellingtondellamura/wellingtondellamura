@@ -3,7 +3,7 @@
 I'm Wellington Della Mura, MSc in Computer Science, Software Engineer and Full-time father
 
 - 🤓 I’m currently working on improve my remote classes of compilers and theory of computation
-- 🌱 I’m currently learning React JS, .Net Core and Lavavel
+- 🌱 I’m currently learning Vue JS, Python and Lavavel
 
 
 ## Connect with me
@@ -14,5 +14,5 @@ I'm Wellington Della Mura, MSc in Computer Science, Software Engineer and Full-t
 <br/>
 <br/>
 
-<img align="left" alt="WellingtonDellaMura's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wellingtondellamura&show_icons=true&theme=dracula" />
+<img align="left" alt="WellingtonDellaMura's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wellingtondellamura&show_icons=true" />
 
