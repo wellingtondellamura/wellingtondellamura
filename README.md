@@ -2,7 +2,7 @@
 
 I'm Wellington Della Mura, MSc in Computer Science, Software Engineer and Full-time father
 
-- 🤓 I’m currently working on improve my remote classes of compilers and theory of computation
+- 🤓 I’m currently working to improve my remote classes of compilers and theory of computation
 - 🌱 I’m currently learning Vue JS, Python and Lavavel
 
 
